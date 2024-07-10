@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a fullstack web developer.
+# I'm currently working as a fullstack web developer.
 
 
 ## 🌐 Socials:
