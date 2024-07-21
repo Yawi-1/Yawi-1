@@ -2,7 +2,7 @@
 ## 🔭 I’m currently working as a Fullstack Web Developer.
 
 Project Demo Links :
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/www.instagram.com/hey__yawii__/](https://yawi-1.github.io/collegeWebsite.github.io/contact.html))
+[![Instagram]]([https://instagram.com/www.instagram.com/hey__yawii__/](https://yawi-1.github.io/collegeWebsite.github.io/contact.html))
 
 
 ## 🌐 Socials:
