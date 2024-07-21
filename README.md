@@ -2,7 +2,7 @@
 ## 🔭 I’m currently working as a Fullstack Web Developer.
 
 Project Demo Links :
-![](https://yawi-1.github.io/collegeWebsite.github.io/contact.html)
+![Demo](https://yawi-1.github.io/collegeWebsite.github.io/contact.html)
 
 
 ## 🌐 Socials:
