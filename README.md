@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 🔭 I’m a Fullstack Web Developer.
+## 🔭 I’m a MERN Stack Web Developer.
 
 
 ## 🌐 Socials:
